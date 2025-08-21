@@ -15,11 +15,4 @@ Efficiency: Automated routing reduces delays in grievance handling.
 Accountability: Admins can track, categorize, and resolve issues systematically.
 
 Scalability: The system can expand with institutional needs.
-
-🎯 Overall Impact
-
 The system strengthens student engagement and institutional responsiveness, creating a healthier academic atmosphere where student voices are heard and issues are addressed promptly. It also empowers administrators with insights into recurring challenges, aiding in policy improvements and continuous enhancement of the educational experience.
-
-
-
-Would you like me to also rewrite this summary in a short version (4–5 lines) for GitHub README or keep it as a detailed one-page professional summary?
